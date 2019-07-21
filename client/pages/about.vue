@@ -9,13 +9,13 @@
         <b>Secret</b> is an open source tool
         <b>made by privacy freaks for privacy freaks</b>,
         letting you send encrypted notes that will
-        be self-destruct after being read.
+        self-destruct after being read.
       </p>
       <br>
       <p>
         Notes are stored encrypted on our servers and can only
         be accessed using the decryption key, which
-        is binded to the shareable note URL. Secret
+        is bound to the shareable note URL. Secret
         does not have the link, at no time is any note
         held in any readable format state at Secret.
         This assures that nobody (including Secret's
