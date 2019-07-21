@@ -60,7 +60,7 @@
                 <span class="icon is-small is-left">
                   <i class="fa fa-key"></i>
                 </span>
-                <p class="help">This key will be prompt for when trying
+                <p class="help">This key will be prompted for when trying
                   to read the note</p>
               </div>
             </div>

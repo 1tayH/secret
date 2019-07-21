@@ -8,7 +8,7 @@
       <div class="column">
         <Step number="1"
               image="writing.svg">
-          Write down your note and click the "store nore" button.
+          Write down your note and click the "store note" button.
         </Step>
       </div>
       <div class="column">
@@ -22,7 +22,7 @@
       <div class="column">
         <Step number="3"
               image="secure_server.svg">
-          The encrypted note itself is sent to our servers securly
+          The encrypted note itself is sent to our servers securely
           and you recieve a shareable link containing
           the decryption key.
         </Step>
@@ -31,7 +31,7 @@
         <Step number="4"
               image="grave.svg">
           Once your note is read it will be sent right to the
-          note graveyard, completly un-recoverable!
+          note graveyard, completely un-recoverable!
         </Step>
       </div>
     </div>
